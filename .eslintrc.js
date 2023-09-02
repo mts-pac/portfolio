@@ -1,5 +1,5 @@
 /* global module */
 module.exports = {
-  extends: [ 'plugin:vue/vue3-recommended', 'eslint:recommended' ],
+  extends: [ 'prettier', 'plugin:vue/vue3-recommended', 'eslint:recommended' ],
   rules: {}
 }

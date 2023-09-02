@@ -1,0 +1,1 @@
+export { default as Icon3Vectors } from './Icon3Vectors.vue'
