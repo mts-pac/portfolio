@@ -1,7 +1,7 @@
 <template>
   <div class="card border-0 shadow p-3 mt-3">
     <img
-      src="src/assets/img/hashtag.png"
+      src="@/assets/img/hashtag.png"
       width="90"
       height="90"
     >
